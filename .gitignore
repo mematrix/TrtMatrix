@@ -1,0 +1,20 @@
+# Build Dir
+out/
+build/
+
+# VS2019 Settings
+.vs/
+CMakeSettings.json
+
+# VS Code
+.vscode/
+
+# Jetbrains
+.idea/
+
+# Jetbrains Clion cmake build
+cmake-build-*/
+
+# Precompiled Headers
+*.gch
+*.pch

@@ -1,0 +1,9 @@
+[submodule "ThirdParty/NumCpp"]
+	path = ThirdParty/NumCpp
+	url = https://github.com/mematrix/NumCpp.git
+[submodule "ThirdParty/libsndfile"]
+	path = ThirdParty/libsndfile
+	url = https://github.com/erikd/libsndfile.git
+[submodule "ThirdParty/AudioFFT"]
+	path = ThirdParty/AudioFFT
+	url = https://github.com/HiFi-LoFi/AudioFFT.git
